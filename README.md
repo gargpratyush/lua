@@ -2,6 +2,11 @@
 
 A Linux kernel module that provides a character device interface for capturing and storing messages. This module can be used to monitor and log kernel messages through a user-space interface.
 
+
+![luanotifier-img (1)](https://github.com/user-attachments/assets/1f434c2b-2451-42f4-958c-4e4fce3ee9a5)
+
+![luanotifier-img (2)](https://github.com/user-attachments/assets/f5c89417-0458-45db-af56-5689e871a9eb)
+
 ## Features
 
 - Character device interface at `/dev/luanotifier`
